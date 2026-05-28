@@ -18,7 +18,7 @@ This repository contains practice implementations of Python File Handling concep
 * Writing data to files
 * File modes (`r`, `w`, `x`)
 * Using `with open()` for safe file handling
-* Handling file paths (including raw strings)
+* Handling file paths (including raw strings).
 
 ---
 
@@ -41,7 +41,7 @@ Python_FileHandling/
 * Developed a clear understanding of file operations in Python
 * Learned efficient ways to read and write file data
 * Understood best practices like using `with open()`
-* Practiced processing and analyzing text-based data
+* Practiced processing and analyzing text-based data.
 
 ---
 
